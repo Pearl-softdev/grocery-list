@@ -1,0 +1,16 @@
+C:\Users\Student\Source\repos\Grocery List\Grocery List\bin\Debug\net5.0\GroceryList.exe
+C:\Users\Student\Source\repos\Grocery List\Grocery List\bin\Debug\net5.0\GroceryList.deps.json
+C:\Users\Student\Source\repos\Grocery List\Grocery List\bin\Debug\net5.0\GroceryList.runtimeconfig.json
+C:\Users\Student\Source\repos\Grocery List\Grocery List\bin\Debug\net5.0\GroceryList.runtimeconfig.dev.json
+C:\Users\Student\Source\repos\Grocery List\Grocery List\bin\Debug\net5.0\GroceryList.dll
+C:\Users\Student\Source\repos\Grocery List\Grocery List\bin\Debug\net5.0\ref\GroceryList.dll
+C:\Users\Student\Source\repos\Grocery List\Grocery List\bin\Debug\net5.0\GroceryList.pdb
+C:\Users\Student\Source\repos\Grocery List\Grocery List\obj\Debug\net5.0\GroceryList.csprojAssemblyReference.cache
+C:\Users\Student\Source\repos\Grocery List\Grocery List\obj\Debug\net5.0\GroceryList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Source\repos\Grocery List\Grocery List\obj\Debug\net5.0\GroceryList.AssemblyInfoInputs.cache
+C:\Users\Student\Source\repos\Grocery List\Grocery List\obj\Debug\net5.0\GroceryList.AssemblyInfo.cs
+C:\Users\Student\Source\repos\Grocery List\Grocery List\obj\Debug\net5.0\GroceryList.csproj.CoreCompileInputs.cache
+C:\Users\Student\Source\repos\Grocery List\Grocery List\obj\Debug\net5.0\GroceryList.dll
+C:\Users\Student\Source\repos\Grocery List\Grocery List\obj\Debug\net5.0\ref\GroceryList.dll
+C:\Users\Student\Source\repos\Grocery List\Grocery List\obj\Debug\net5.0\GroceryList.pdb
+C:\Users\Student\Source\repos\Grocery List\Grocery List\obj\Debug\net5.0\GroceryList.genruntimeconfig.cache
